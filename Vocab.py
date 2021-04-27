@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Apr 18 01:03:51 2021
 
-@author: reuel
 """
 
 import collections

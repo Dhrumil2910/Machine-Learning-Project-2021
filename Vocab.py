@@ -279,8 +279,14 @@ class Vocabulary:
             output_summary.append(word)
         
         return output_summary
+    
+    @property
+    def pad_index(self):
+        return self.stoi.get(Vocabulary.PAD)
                 
-        
+    @property
+    def unk_index(self):
+        return self.stoi.get(Vocabulary.UNK)
 
     
     @classmethod

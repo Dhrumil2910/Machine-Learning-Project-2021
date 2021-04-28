@@ -2,7 +2,7 @@
 
 A PyTorch implementation of [Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/pdf/1704.04368.pdf)  
 
-***TODO: Upload rest of the remaining source code files.***
+***TODO: Clean and comment rest of the remaining source code files.***
 
 
 # Sample Summaries
